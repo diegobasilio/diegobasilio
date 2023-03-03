@@ -2,12 +2,11 @@
  print("Hello World")
 ``` 
 ### I'm Diego Basilio👋
-
-### 📚 I'm currently studying Systems Analysis and Development
-### 🌱 I’m currently learning Python, Java and MySql
-### 🤔 I'm in search of new opportunities
-### 🖥️ Systems Development Technician - ETEC Professor Camargo Aranha
-### 📫 How to reach me: diegobasilio10@gmail.com
+- 📚 I'm currently studying Systems Analysis and Development
+- 🌱 I’m currently learning Python, Java and MySql
+- 🤔 I'm in search of new opportunities
+- 🖥️ Systems Development Technician - ETEC Professor Camargo Aranha
+- 📫 How to reach me: diegobasilio10@gmail.com
 
 ### Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/diego-basilio-47b680207/1)
