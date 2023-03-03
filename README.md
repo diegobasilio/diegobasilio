@@ -22,6 +22,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegobasiliok&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegobasilio&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobasilio&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="175" />
 </p>
