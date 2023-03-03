@@ -1,4 +1,4 @@
-### Hello, I'm Diego 👋
+### Hello, I'm Diego Basilio👋
 
 ### 📚 I'm currently studying Systems Analysis and Development
 ### 🌱 I’m currently learning Python, Java and MySql
