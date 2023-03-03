@@ -1,5 +1,5 @@
 ```pytho 
- print("Hello World");
+ print("Hello World")
 ``` 
 ### I'm Diego Basilio👋
 
