@@ -11,7 +11,7 @@
 ### Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/diego-basilio-47b680207/1)
 
-### Stacks:
+### 💻 Stacks:
 <div style="display: inline_block"><br/> 
     <img align="center "alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center "alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -20,3 +20,5 @@
     <img align="center "alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+### 📊 GitHub Stats:
+![Diego Basilio GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobasilio&show_icons=true&theme=dracula)
