@@ -21,4 +21,7 @@
 </div>
 
 ### 📊 GitHub Stats:
-![Diego Basilio GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobasilio&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleyvlk&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvlk&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="175" />
+</p>
