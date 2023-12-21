@@ -3,7 +3,7 @@
 ``` 
 ### I'm Diego Basilio👋
 - 📚 I'm currently studying Systems Analysis and Development
-- 🌱 I’m currently learning Python, Java and MySql
+- 🌱 I’m currently learning C#, JavaScript, Python, Java and MySql
 - 🤔 I'm in search of new opportunities
 - 🖥️ Systems Development Technician - ETEC Professor Camargo Aranha
 - 📫 How to reach me: diegobasilio10@gmail.com
