@@ -1,5 +1,6 @@
 ### I'm Diego Basilio👋
-- 🖥️ Systems Development Technician - ETEC Professor Camargo Aranha and Technologist in Systems Analysis and Development - Universidade Cruzeiro do Sul.
+- 🖥️ Systems Development Technician - ETEC Professor Camargo Aranha
+- 🖥️ Technologist in Systems Analysis and Development - Universidade Cruzeiro do Sul
 - 📚 I'm currently studying new technologies
 
 ### Connect with me:
